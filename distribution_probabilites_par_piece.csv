@@ -1,0 +1,801 @@
+﻿ID_Ascenseur;Pièce;Adresse;Probabilité de panne;Explication
+A001;Batterie de secours;Place de la République, 75011 Paris;0,0111;Risque moyen
+A001;Capteurs;Place de la République, 75011 Paris;0,0107;Risque moyen
+A001;Câbles;Place de la République, 75011 Paris;0,0094;Risque moyen
+A001;Freins;Place de la République, 75011 Paris;0,0094;Risque moyen
+A001;Moteur;Place de la République, 75011 Paris;0,0098;Risque moyen
+A001;Portes;Place de la République, 75011 Paris;0,0091;Risque moyen
+A001;Poulies;Place de la République, 75011 Paris;0,0070;Risque faible
+A001;Système de contrôle;Place de la République, 75011 Paris;0,0096;Risque moyen
+A002;Batterie de secours;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0117;Risque moyen
+A002;Capteurs;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0078;Risque faible
+A002;Câbles;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0123;Risque moyen
+A002;Freins;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0084;Risque faible
+A002;Moteur;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0069;Risque faible
+A002;Portes;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0073;Risque faible
+A002;Poulies;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0106;Risque moyen
+A002;Système de contrôle;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0101;Risque moyen
+A003;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0114;Risque moyen
+A003;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0130;Risque élevé
+A003;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0117;Risque moyen
+A003;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0135;Risque élevé
+A003;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0090;Risque faible
+A003;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0081;Risque faible
+A003;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0140;Risque élevé
+A003;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0104;Risque moyen
+A004;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0075;Risque faible
+A004;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0080;Risque faible
+A004;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0130;Risque élevé
+A004;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0100;Risque moyen
+A004;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0108;Risque moyen
+A004;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0117;Risque moyen
+A004;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0130;Risque élevé
+A004;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0068;Risque faible
+A005;Batterie de secours;Allée de la Noyeraie, 92000 Nanterre;0,0134;Risque élevé
+A005;Capteurs;Allée de la Noyeraie, 92000 Nanterre;0,0130;Risque élevé
+A005;Câbles;Allée de la Noyeraie, 92000 Nanterre;0,0063;Risque faible
+A005;Freins;Allée de la Noyeraie, 92000 Nanterre;0,0092;Risque moyen
+A005;Moteur;Allée de la Noyeraie, 92000 Nanterre;0,0147;Risque élevé
+A005;Portes;Allée de la Noyeraie, 92000 Nanterre;0,0110;Risque moyen
+A005;Poulies;Allée de la Noyeraie, 92000 Nanterre;0,0084;Risque faible
+A005;Système de contrôle;Allée de la Noyeraie, 92000 Nanterre;0,0124;Risque élevé
+A006;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0082;Risque faible
+A006;Capteurs;Boulevard Magenta, 75010 Paris;0,0100;Risque moyen
+A006;Câbles;Boulevard Magenta, 75010 Paris;0,0091;Risque moyen
+A006;Freins;Boulevard Magenta, 75010 Paris;0,0063;Risque faible
+A006;Moteur;Boulevard Magenta, 75010 Paris;0,0090;Risque faible
+A006;Portes;Boulevard Magenta, 75010 Paris;0,0078;Risque faible
+A006;Poulies;Boulevard Magenta, 75010 Paris;0,0088;Risque faible
+A006;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0099;Risque moyen
+A007;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0085;Risque faible
+A007;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0096;Risque moyen
+A007;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0085;Risque faible
+A007;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0074;Risque faible
+A007;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0083;Risque faible
+A007;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0128;Risque élevé
+A007;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0089;Risque faible
+A007;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0082;Risque faible
+A008;Batterie de secours;Allée de la Noyeraie, 92000 Nanterre;0,0066;Risque faible
+A008;Capteurs;Allée de la Noyeraie, 92000 Nanterre;0,0109;Risque moyen
+A008;Câbles;Allée de la Noyeraie, 92000 Nanterre;0,0122;Risque moyen
+A008;Freins;Allée de la Noyeraie, 92000 Nanterre;0,0079;Risque faible
+A008;Moteur;Allée de la Noyeraie, 92000 Nanterre;0,0096;Risque moyen
+A008;Portes;Allée de la Noyeraie, 92000 Nanterre;0,0098;Risque moyen
+A008;Poulies;Allée de la Noyeraie, 92000 Nanterre;0,0058;Risque faible
+A008;Système de contrôle;Allée de la Noyeraie, 92000 Nanterre;0,0100;Risque moyen
+A009;Batterie de secours;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0072;Risque faible
+A009;Capteurs;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0138;Risque élevé
+A009;Câbles;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0086;Risque faible
+A009;Freins;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0088;Risque faible
+A009;Moteur;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0087;Risque faible
+A009;Portes;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0117;Risque moyen
+A009;Poulies;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0095;Risque moyen
+A009;Système de contrôle;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0076;Risque faible
+A010;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0116;Risque moyen
+A010;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0090;Risque faible
+A010;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0116;Risque moyen
+A010;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0113;Risque moyen
+A010;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0113;Risque moyen
+A010;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0105;Risque moyen
+A010;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0097;Risque moyen
+A010;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0087;Risque faible
+A011;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0072;Risque faible
+A011;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0119;Risque moyen
+A011;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0090;Risque faible
+A011;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0117;Risque moyen
+A011;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0120;Risque moyen
+A011;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0098;Risque moyen
+A011;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0102;Risque moyen
+A011;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0075;Risque faible
+A012;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0073;Risque faible
+A012;Capteurs;Boulevard Magenta, 75010 Paris;0,0072;Risque faible
+A012;Câbles;Boulevard Magenta, 75010 Paris;0,0088;Risque faible
+A012;Freins;Boulevard Magenta, 75010 Paris;0,0078;Risque faible
+A012;Moteur;Boulevard Magenta, 75010 Paris;0,0087;Risque faible
+A012;Portes;Boulevard Magenta, 75010 Paris;0,0133;Risque élevé
+A012;Poulies;Boulevard Magenta, 75010 Paris;0,0099;Risque moyen
+A012;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0108;Risque moyen
+A013;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0073;Risque faible
+A013;Capteurs;Rue de Montmartre, 75002 Paris;0,0106;Risque moyen
+A013;Câbles;Rue de Montmartre, 75002 Paris;0,0097;Risque moyen
+A013;Freins;Rue de Montmartre, 75002 Paris;0,0094;Risque moyen
+A013;Moteur;Rue de Montmartre, 75002 Paris;0,0093;Risque moyen
+A013;Portes;Rue de Montmartre, 75002 Paris;0,0098;Risque moyen
+A013;Poulies;Rue de Montmartre, 75002 Paris;0,0113;Risque moyen
+A013;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0102;Risque moyen
+A014;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0092;Risque moyen
+A014;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0068;Risque faible
+A014;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0102;Risque moyen
+A014;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0100;Risque moyen
+A014;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0115;Risque moyen
+A014;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0111;Risque moyen
+A014;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0111;Risque moyen
+A014;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0097;Risque moyen
+A015;Batterie de secours;Allée de la Noyeraie, 92000 Nanterre;0,0070;Risque faible
+A015;Capteurs;Allée de la Noyeraie, 92000 Nanterre;0,0068;Risque faible
+A015;Câbles;Allée de la Noyeraie, 92000 Nanterre;0,0093;Risque moyen
+A015;Freins;Allée de la Noyeraie, 92000 Nanterre;0,0105;Risque moyen
+A015;Moteur;Allée de la Noyeraie, 92000 Nanterre;0,0108;Risque moyen
+A015;Portes;Allée de la Noyeraie, 92000 Nanterre;0,0127;Risque élevé
+A015;Poulies;Allée de la Noyeraie, 92000 Nanterre;0,0084;Risque faible
+A015;Système de contrôle;Allée de la Noyeraie, 92000 Nanterre;0,0093;Risque moyen
+A016;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0108;Risque moyen
+A016;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0075;Risque faible
+A016;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0122;Risque moyen
+A016;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0101;Risque moyen
+A016;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0115;Risque moyen
+A016;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0086;Risque faible
+A016;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0093;Risque moyen
+A016;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0078;Risque faible
+A017;Batterie de secours;Place de la République, 75011 Paris;0,0107;Risque moyen
+A017;Capteurs;Place de la République, 75011 Paris;0,0124;Risque élevé
+A017;Câbles;Place de la République, 75011 Paris;0,0082;Risque faible
+A017;Freins;Place de la République, 75011 Paris;0,0096;Risque moyen
+A017;Moteur;Place de la République, 75011 Paris;0,0144;Risque élevé
+A017;Portes;Place de la République, 75011 Paris;0,0102;Risque moyen
+A017;Poulies;Place de la République, 75011 Paris;0,0104;Risque moyen
+A017;Système de contrôle;Place de la République, 75011 Paris;0,0120;Risque moyen
+A018;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0074;Risque faible
+A018;Capteurs;Rue de Montmartre, 75002 Paris;0,0103;Risque moyen
+A018;Câbles;Rue de Montmartre, 75002 Paris;0,0131;Risque élevé
+A018;Freins;Rue de Montmartre, 75002 Paris;0,0080;Risque faible
+A018;Moteur;Rue de Montmartre, 75002 Paris;0,0135;Risque élevé
+A018;Portes;Rue de Montmartre, 75002 Paris;0,0097;Risque moyen
+A018;Poulies;Rue de Montmartre, 75002 Paris;0,0088;Risque faible
+A018;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0083;Risque faible
+A019;Batterie de secours;Place de la République, 75011 Paris;0,0128;Risque élevé
+A019;Capteurs;Place de la République, 75011 Paris;0,0065;Risque faible
+A019;Câbles;Place de la République, 75011 Paris;0,0062;Risque faible
+A019;Freins;Place de la République, 75011 Paris;0,0095;Risque moyen
+A019;Moteur;Place de la République, 75011 Paris;0,0135;Risque élevé
+A019;Portes;Place de la République, 75011 Paris;0,0138;Risque élevé
+A019;Poulies;Place de la République, 75011 Paris;0,0118;Risque moyen
+A019;Système de contrôle;Place de la République, 75011 Paris;0,0091;Risque moyen
+A020;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0118;Risque moyen
+A020;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0069;Risque faible
+A020;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0129;Risque élevé
+A020;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0097;Risque moyen
+A020;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0087;Risque faible
+A020;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0078;Risque faible
+A020;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0090;Risque faible
+A020;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0119;Risque moyen
+A021;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0071;Risque faible
+A021;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0082;Risque faible
+A021;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0077;Risque faible
+A021;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0127;Risque élevé
+A021;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0071;Risque faible
+A021;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0098;Risque moyen
+A021;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0125;Risque élevé
+A021;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0110;Risque moyen
+A022;Batterie de secours;Allée de la Noyeraie, 92000 Nanterre;0,0093;Risque moyen
+A022;Capteurs;Allée de la Noyeraie, 92000 Nanterre;0,0086;Risque faible
+A022;Câbles;Allée de la Noyeraie, 92000 Nanterre;0,0082;Risque faible
+A022;Freins;Allée de la Noyeraie, 92000 Nanterre;0,0071;Risque faible
+A022;Moteur;Allée de la Noyeraie, 92000 Nanterre;0,0095;Risque moyen
+A022;Portes;Allée de la Noyeraie, 92000 Nanterre;0,0066;Risque faible
+A022;Poulies;Allée de la Noyeraie, 92000 Nanterre;0,0108;Risque moyen
+A022;Système de contrôle;Allée de la Noyeraie, 92000 Nanterre;0,0134;Risque élevé
+A023;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0088;Risque faible
+A023;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0100;Risque moyen
+A023;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0088;Risque faible
+A023;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0091;Risque moyen
+A023;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0073;Risque faible
+A023;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0060;Risque faible
+A023;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0096;Risque moyen
+A023;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0085;Risque faible
+A024;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0107;Risque moyen
+A024;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0080;Risque faible
+A024;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0089;Risque faible
+A024;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0098;Risque moyen
+A024;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0087;Risque faible
+A024;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0115;Risque moyen
+A024;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0108;Risque moyen
+A024;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0125;Risque élevé
+A025;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0139;Risque élevé
+A025;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0126;Risque élevé
+A025;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0132;Risque élevé
+A025;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0061;Risque faible
+A025;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0131;Risque élevé
+A025;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0130;Risque élevé
+A025;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0103;Risque moyen
+A025;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0110;Risque moyen
+A026;Batterie de secours;Place de la République, 75011 Paris;0,0136;Risque élevé
+A026;Capteurs;Place de la République, 75011 Paris;0,0115;Risque moyen
+A026;Câbles;Place de la République, 75011 Paris;0,0086;Risque faible
+A026;Freins;Place de la République, 75011 Paris;0,0110;Risque moyen
+A026;Moteur;Place de la République, 75011 Paris;0,0113;Risque moyen
+A026;Portes;Place de la République, 75011 Paris;0,0111;Risque moyen
+A026;Poulies;Place de la République, 75011 Paris;0,0084;Risque faible
+A026;Système de contrôle;Place de la République, 75011 Paris;0,0098;Risque moyen
+A027;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0119;Risque moyen
+A027;Capteurs;Rue de Montmartre, 75002 Paris;0,0107;Risque moyen
+A027;Câbles;Rue de Montmartre, 75002 Paris;0,0063;Risque faible
+A027;Freins;Rue de Montmartre, 75002 Paris;0,0126;Risque élevé
+A027;Moteur;Rue de Montmartre, 75002 Paris;0,0074;Risque faible
+A027;Portes;Rue de Montmartre, 75002 Paris;0,0098;Risque moyen
+A027;Poulies;Rue de Montmartre, 75002 Paris;0,0124;Risque élevé
+A027;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0094;Risque moyen
+A028;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0074;Risque faible
+A028;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0088;Risque faible
+A028;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0129;Risque élevé
+A028;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0095;Risque moyen
+A028;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0110;Risque moyen
+A028;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0115;Risque moyen
+A028;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0095;Risque moyen
+A028;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0093;Risque moyen
+A029;Batterie de secours;Allée de la Noyeraie, 92000 Nanterre;0,0135;Risque élevé
+A029;Capteurs;Allée de la Noyeraie, 92000 Nanterre;0,0095;Risque moyen
+A029;Câbles;Allée de la Noyeraie, 92000 Nanterre;0,0114;Risque moyen
+A029;Freins;Allée de la Noyeraie, 92000 Nanterre;0,0134;Risque élevé
+A029;Moteur;Allée de la Noyeraie, 92000 Nanterre;0,0065;Risque faible
+A029;Portes;Allée de la Noyeraie, 92000 Nanterre;0,0102;Risque moyen
+A029;Poulies;Allée de la Noyeraie, 92000 Nanterre;0,0075;Risque faible
+A029;Système de contrôle;Allée de la Noyeraie, 92000 Nanterre;0,0075;Risque faible
+A030;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0094;Risque moyen
+A030;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0091;Risque moyen
+A030;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0111;Risque moyen
+A030;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0110;Risque moyen
+A030;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0098;Risque moyen
+A030;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0085;Risque faible
+A030;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0105;Risque moyen
+A030;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0124;Risque élevé
+A031;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0115;Risque moyen
+A031;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0103;Risque moyen
+A031;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0141;Risque élevé
+A031;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0093;Risque moyen
+A031;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0081;Risque faible
+A031;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0105;Risque moyen
+A031;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0134;Risque élevé
+A031;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0120;Risque moyen
+A032;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0080;Risque faible
+A032;Capteurs;Rue de Montmartre, 75002 Paris;0,0074;Risque faible
+A032;Câbles;Rue de Montmartre, 75002 Paris;0,0090;Risque faible
+A032;Freins;Rue de Montmartre, 75002 Paris;0,0086;Risque faible
+A032;Moteur;Rue de Montmartre, 75002 Paris;0,0066;Risque faible
+A032;Portes;Rue de Montmartre, 75002 Paris;0,0088;Risque faible
+A032;Poulies;Rue de Montmartre, 75002 Paris;0,0095;Risque moyen
+A032;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0103;Risque moyen
+A033;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0117;Risque moyen
+A033;Capteurs;Rue de Montmartre, 75002 Paris;0,0090;Risque faible
+A033;Câbles;Rue de Montmartre, 75002 Paris;0,0129;Risque élevé
+A033;Freins;Rue de Montmartre, 75002 Paris;0,0083;Risque faible
+A033;Moteur;Rue de Montmartre, 75002 Paris;0,0068;Risque faible
+A033;Portes;Rue de Montmartre, 75002 Paris;0,0111;Risque moyen
+A033;Poulies;Rue de Montmartre, 75002 Paris;0,0103;Risque moyen
+A033;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0075;Risque faible
+A034;Batterie de secours;Place de la République, 75011 Paris;0,0084;Risque faible
+A034;Capteurs;Place de la République, 75011 Paris;0,0115;Risque moyen
+A034;Câbles;Place de la République, 75011 Paris;0,0104;Risque moyen
+A034;Freins;Place de la République, 75011 Paris;0,0071;Risque faible
+A034;Moteur;Place de la République, 75011 Paris;0,0095;Risque moyen
+A034;Portes;Place de la République, 75011 Paris;0,0068;Risque faible
+A034;Poulies;Place de la République, 75011 Paris;0,0110;Risque moyen
+A034;Système de contrôle;Place de la République, 75011 Paris;0,0070;Risque faible
+A035;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0112;Risque moyen
+A035;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0087;Risque faible
+A035;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0099;Risque moyen
+A035;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0125;Risque élevé
+A035;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0080;Risque faible
+A035;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0137;Risque élevé
+A035;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0069;Risque faible
+A035;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0128;Risque élevé
+A036;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0101;Risque moyen
+A036;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0100;Risque moyen
+A036;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0084;Risque faible
+A036;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0103;Risque moyen
+A036;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0098;Risque moyen
+A036;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0063;Risque faible
+A036;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0094;Risque moyen
+A036;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0073;Risque faible
+A037;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0092;Risque moyen
+A037;Capteurs;Boulevard Magenta, 75010 Paris;0,0083;Risque faible
+A037;Câbles;Boulevard Magenta, 75010 Paris;0,0091;Risque moyen
+A037;Freins;Boulevard Magenta, 75010 Paris;0,0096;Risque moyen
+A037;Moteur;Boulevard Magenta, 75010 Paris;0,0117;Risque moyen
+A037;Portes;Boulevard Magenta, 75010 Paris;0,0061;Risque faible
+A037;Poulies;Boulevard Magenta, 75010 Paris;0,0085;Risque faible
+A037;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0066;Risque faible
+A038;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0094;Risque moyen
+A038;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0067;Risque faible
+A038;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0126;Risque élevé
+A038;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0119;Risque moyen
+A038;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0083;Risque faible
+A038;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0130;Risque élevé
+A038;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0072;Risque faible
+A038;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0111;Risque moyen
+A039;Batterie de secours;Allée de la Noyeraie, 92000 Nanterre;0,0114;Risque moyen
+A039;Capteurs;Allée de la Noyeraie, 92000 Nanterre;0,0109;Risque moyen
+A039;Câbles;Allée de la Noyeraie, 92000 Nanterre;0,0087;Risque faible
+A039;Freins;Allée de la Noyeraie, 92000 Nanterre;0,0109;Risque moyen
+A039;Moteur;Allée de la Noyeraie, 92000 Nanterre;0,0113;Risque moyen
+A039;Portes;Allée de la Noyeraie, 92000 Nanterre;0,0123;Risque moyen
+A039;Poulies;Allée de la Noyeraie, 92000 Nanterre;0,0103;Risque moyen
+A039;Système de contrôle;Allée de la Noyeraie, 92000 Nanterre;0,0139;Risque élevé
+A040;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0128;Risque élevé
+A040;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0130;Risque élevé
+A040;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0131;Risque élevé
+A040;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0099;Risque moyen
+A040;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0124;Risque élevé
+A040;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0083;Risque faible
+A040;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0099;Risque moyen
+A040;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0077;Risque faible
+A041;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0105;Risque moyen
+A041;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0142;Risque élevé
+A041;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0093;Risque moyen
+A041;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0104;Risque moyen
+A041;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0124;Risque élevé
+A041;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0076;Risque faible
+A041;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0090;Risque faible
+A041;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0114;Risque moyen
+A042;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0077;Risque faible
+A042;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0090;Risque faible
+A042;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0105;Risque moyen
+A042;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0086;Risque faible
+A042;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0112;Risque moyen
+A042;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0078;Risque faible
+A042;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0115;Risque moyen
+A042;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0063;Risque faible
+A043;Batterie de secours;Allée de la Noyeraie, 92000 Nanterre;0,0104;Risque moyen
+A043;Capteurs;Allée de la Noyeraie, 92000 Nanterre;0,0099;Risque moyen
+A043;Câbles;Allée de la Noyeraie, 92000 Nanterre;0,0074;Risque faible
+A043;Freins;Allée de la Noyeraie, 92000 Nanterre;0,0087;Risque faible
+A043;Moteur;Allée de la Noyeraie, 92000 Nanterre;0,0122;Risque moyen
+A043;Portes;Allée de la Noyeraie, 92000 Nanterre;0,0075;Risque faible
+A043;Poulies;Allée de la Noyeraie, 92000 Nanterre;0,0107;Risque moyen
+A043;Système de contrôle;Allée de la Noyeraie, 92000 Nanterre;0,0089;Risque faible
+A044;Batterie de secours;Allée de la Noyeraie, 92000 Nanterre;0,0104;Risque moyen
+A044;Capteurs;Allée de la Noyeraie, 92000 Nanterre;0,0114;Risque moyen
+A044;Câbles;Allée de la Noyeraie, 92000 Nanterre;0,0089;Risque faible
+A044;Freins;Allée de la Noyeraie, 92000 Nanterre;0,0062;Risque faible
+A044;Moteur;Allée de la Noyeraie, 92000 Nanterre;0,0090;Risque faible
+A044;Portes;Allée de la Noyeraie, 92000 Nanterre;0,0107;Risque moyen
+A044;Poulies;Allée de la Noyeraie, 92000 Nanterre;0,0111;Risque moyen
+A044;Système de contrôle;Allée de la Noyeraie, 92000 Nanterre;0,0090;Risque faible
+A045;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0112;Risque moyen
+A045;Capteurs;Boulevard Magenta, 75010 Paris;0,0110;Risque moyen
+A045;Câbles;Boulevard Magenta, 75010 Paris;0,0088;Risque faible
+A045;Freins;Boulevard Magenta, 75010 Paris;0,0088;Risque faible
+A045;Moteur;Boulevard Magenta, 75010 Paris;0,0071;Risque faible
+A045;Portes;Boulevard Magenta, 75010 Paris;0,0097;Risque moyen
+A045;Poulies;Boulevard Magenta, 75010 Paris;0,0099;Risque moyen
+A045;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0078;Risque faible
+A046;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0119;Risque moyen
+A046;Capteurs;Rue de Montmartre, 75002 Paris;0,0118;Risque moyen
+A046;Câbles;Rue de Montmartre, 75002 Paris;0,0079;Risque faible
+A046;Freins;Rue de Montmartre, 75002 Paris;0,0131;Risque élevé
+A046;Moteur;Rue de Montmartre, 75002 Paris;0,0103;Risque moyen
+A046;Portes;Rue de Montmartre, 75002 Paris;0,0114;Risque moyen
+A046;Poulies;Rue de Montmartre, 75002 Paris;0,0120;Risque moyen
+A046;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0098;Risque moyen
+A047;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0068;Risque faible
+A047;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0138;Risque élevé
+A047;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0077;Risque faible
+A047;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0120;Risque moyen
+A047;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0109;Risque moyen
+A047;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0108;Risque moyen
+A047;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0115;Risque moyen
+A047;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0120;Risque moyen
+A048;Batterie de secours;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0060;Risque faible
+A048;Capteurs;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0097;Risque moyen
+A048;Câbles;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0088;Risque faible
+A048;Freins;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0077;Risque faible
+A048;Moteur;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0081;Risque faible
+A048;Portes;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0094;Risque moyen
+A048;Poulies;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0121;Risque moyen
+A048;Système de contrôle;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0067;Risque faible
+A049;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0080;Risque faible
+A049;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0098;Risque moyen
+A049;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0123;Risque élevé
+A049;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0085;Risque faible
+A049;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0115;Risque moyen
+A049;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0108;Risque moyen
+A049;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0064;Risque faible
+A049;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0123;Risque moyen
+A050;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0093;Risque moyen
+A050;Capteurs;Rue de Montmartre, 75002 Paris;0,0098;Risque moyen
+A050;Câbles;Rue de Montmartre, 75002 Paris;0,0077;Risque faible
+A050;Freins;Rue de Montmartre, 75002 Paris;0,0082;Risque faible
+A050;Moteur;Rue de Montmartre, 75002 Paris;0,0135;Risque élevé
+A050;Portes;Rue de Montmartre, 75002 Paris;0,0077;Risque faible
+A050;Poulies;Rue de Montmartre, 75002 Paris;0,0082;Risque faible
+A050;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0100;Risque moyen
+A051;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0114;Risque moyen
+A051;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0121;Risque moyen
+A051;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0079;Risque faible
+A051;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0134;Risque élevé
+A051;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0085;Risque faible
+A051;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0075;Risque faible
+A051;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0104;Risque moyen
+A051;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0130;Risque élevé
+A052;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0077;Risque faible
+A052;Capteurs;Boulevard Magenta, 75010 Paris;0,0130;Risque élevé
+A052;Câbles;Boulevard Magenta, 75010 Paris;0,0111;Risque moyen
+A052;Freins;Boulevard Magenta, 75010 Paris;0,0111;Risque moyen
+A052;Moteur;Boulevard Magenta, 75010 Paris;0,0100;Risque moyen
+A052;Portes;Boulevard Magenta, 75010 Paris;0,0091;Risque moyen
+A052;Poulies;Boulevard Magenta, 75010 Paris;0,0058;Risque faible
+A052;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0132;Risque élevé
+A053;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0090;Risque faible
+A053;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0108;Risque moyen
+A053;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0094;Risque moyen
+A053;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0123;Risque moyen
+A053;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0088;Risque faible
+A053;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0115;Risque moyen
+A053;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0094;Risque moyen
+A053;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0078;Risque faible
+A054;Batterie de secours;Place de la République, 75011 Paris;0,0068;Risque faible
+A054;Capteurs;Place de la République, 75011 Paris;0,0084;Risque faible
+A054;Câbles;Place de la République, 75011 Paris;0,0116;Risque moyen
+A054;Freins;Place de la République, 75011 Paris;0,0107;Risque moyen
+A054;Moteur;Place de la République, 75011 Paris;0,0103;Risque moyen
+A054;Portes;Place de la République, 75011 Paris;0,0135;Risque élevé
+A054;Poulies;Place de la République, 75011 Paris;0,0128;Risque élevé
+A054;Système de contrôle;Place de la République, 75011 Paris;0,0122;Risque moyen
+A055;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0080;Risque faible
+A055;Capteurs;Rue de Montmartre, 75002 Paris;0,0065;Risque faible
+A055;Câbles;Rue de Montmartre, 75002 Paris;0,0104;Risque moyen
+A055;Freins;Rue de Montmartre, 75002 Paris;0,0100;Risque moyen
+A055;Moteur;Rue de Montmartre, 75002 Paris;0,0118;Risque moyen
+A055;Portes;Rue de Montmartre, 75002 Paris;0,0066;Risque faible
+A055;Poulies;Rue de Montmartre, 75002 Paris;0,0088;Risque faible
+A055;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0104;Risque moyen
+A056;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0110;Risque moyen
+A056;Capteurs;Boulevard Magenta, 75010 Paris;0,0080;Risque faible
+A056;Câbles;Boulevard Magenta, 75010 Paris;0,0118;Risque moyen
+A056;Freins;Boulevard Magenta, 75010 Paris;0,0105;Risque moyen
+A056;Moteur;Boulevard Magenta, 75010 Paris;0,0133;Risque élevé
+A056;Portes;Boulevard Magenta, 75010 Paris;0,0079;Risque faible
+A056;Poulies;Boulevard Magenta, 75010 Paris;0,0117;Risque moyen
+A056;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0063;Risque faible
+A057;Batterie de secours;Place de la République, 75011 Paris;0,0088;Risque faible
+A057;Capteurs;Place de la République, 75011 Paris;0,0091;Risque moyen
+A057;Câbles;Place de la République, 75011 Paris;0,0147;Risque élevé
+A057;Freins;Place de la République, 75011 Paris;0,0113;Risque moyen
+A057;Moteur;Place de la République, 75011 Paris;0,0069;Risque faible
+A057;Portes;Place de la République, 75011 Paris;0,0112;Risque moyen
+A057;Poulies;Place de la République, 75011 Paris;0,0133;Risque élevé
+A057;Système de contrôle;Place de la République, 75011 Paris;0,0100;Risque moyen
+A058;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0156;Risque élevé
+A058;Capteurs;Boulevard Magenta, 75010 Paris;0,0081;Risque faible
+A058;Câbles;Boulevard Magenta, 75010 Paris;0,0117;Risque moyen
+A058;Freins;Boulevard Magenta, 75010 Paris;0,0073;Risque faible
+A058;Moteur;Boulevard Magenta, 75010 Paris;0,0102;Risque moyen
+A058;Portes;Boulevard Magenta, 75010 Paris;0,0071;Risque faible
+A058;Poulies;Boulevard Magenta, 75010 Paris;0,0118;Risque moyen
+A058;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0105;Risque moyen
+A059;Batterie de secours;Place de la République, 75011 Paris;0,0091;Risque moyen
+A059;Capteurs;Place de la République, 75011 Paris;0,0094;Risque moyen
+A059;Câbles;Place de la République, 75011 Paris;0,0137;Risque élevé
+A059;Freins;Place de la République, 75011 Paris;0,0117;Risque moyen
+A059;Moteur;Place de la République, 75011 Paris;0,0131;Risque élevé
+A059;Portes;Place de la République, 75011 Paris;0,0126;Risque élevé
+A059;Poulies;Place de la République, 75011 Paris;0,0091;Risque moyen
+A059;Système de contrôle;Place de la République, 75011 Paris;0,0121;Risque moyen
+A060;Batterie de secours;Place de la République, 75011 Paris;0,0113;Risque moyen
+A060;Capteurs;Place de la République, 75011 Paris;0,0122;Risque moyen
+A060;Câbles;Place de la République, 75011 Paris;0,0099;Risque moyen
+A060;Freins;Place de la République, 75011 Paris;0,0086;Risque faible
+A060;Moteur;Place de la République, 75011 Paris;0,0087;Risque faible
+A060;Portes;Place de la République, 75011 Paris;0,0099;Risque moyen
+A060;Poulies;Place de la République, 75011 Paris;0,0102;Risque moyen
+A060;Système de contrôle;Place de la République, 75011 Paris;0,0138;Risque élevé
+A061;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0073;Risque faible
+A061;Capteurs;Boulevard Magenta, 75010 Paris;0,0107;Risque moyen
+A061;Câbles;Boulevard Magenta, 75010 Paris;0,0114;Risque moyen
+A061;Freins;Boulevard Magenta, 75010 Paris;0,0091;Risque moyen
+A061;Moteur;Boulevard Magenta, 75010 Paris;0,0115;Risque moyen
+A061;Portes;Boulevard Magenta, 75010 Paris;0,0129;Risque élevé
+A061;Poulies;Boulevard Magenta, 75010 Paris;0,0086;Risque faible
+A061;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0094;Risque moyen
+A062;Batterie de secours;Place de la République, 75011 Paris;0,0125;Risque élevé
+A062;Capteurs;Place de la République, 75011 Paris;0,0088;Risque faible
+A062;Câbles;Place de la République, 75011 Paris;0,0085;Risque faible
+A062;Freins;Place de la République, 75011 Paris;0,0071;Risque faible
+A062;Moteur;Place de la République, 75011 Paris;0,0100;Risque moyen
+A062;Portes;Place de la République, 75011 Paris;0,0087;Risque faible
+A062;Poulies;Place de la République, 75011 Paris;0,0106;Risque moyen
+A062;Système de contrôle;Place de la République, 75011 Paris;0,0122;Risque moyen
+A063;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0129;Risque élevé
+A063;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0087;Risque faible
+A063;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0065;Risque faible
+A063;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0078;Risque faible
+A063;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0096;Risque moyen
+A063;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0126;Risque élevé
+A063;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0082;Risque faible
+A063;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0092;Risque moyen
+A064;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0069;Risque faible
+A064;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0117;Risque moyen
+A064;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0122;Risque moyen
+A064;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0063;Risque faible
+A064;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0124;Risque élevé
+A064;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0077;Risque faible
+A064;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0075;Risque faible
+A064;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0135;Risque élevé
+A065;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0114;Risque moyen
+A065;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0125;Risque élevé
+A065;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0075;Risque faible
+A065;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0136;Risque élevé
+A065;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0109;Risque moyen
+A065;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0109;Risque moyen
+A065;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0118;Risque moyen
+A065;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0120;Risque moyen
+A066;Batterie de secours;Allée de la Noyeraie, 92000 Nanterre;0,0088;Risque faible
+A066;Capteurs;Allée de la Noyeraie, 92000 Nanterre;0,0106;Risque moyen
+A066;Câbles;Allée de la Noyeraie, 92000 Nanterre;0,0098;Risque moyen
+A066;Freins;Allée de la Noyeraie, 92000 Nanterre;0,0070;Risque faible
+A066;Moteur;Allée de la Noyeraie, 92000 Nanterre;0,0072;Risque faible
+A066;Portes;Allée de la Noyeraie, 92000 Nanterre;0,0096;Risque moyen
+A066;Poulies;Allée de la Noyeraie, 92000 Nanterre;0,0072;Risque faible
+A066;Système de contrôle;Allée de la Noyeraie, 92000 Nanterre;0,0103;Risque moyen
+A067;Batterie de secours;Place de la République, 75011 Paris;0,0129;Risque élevé
+A067;Capteurs;Place de la République, 75011 Paris;0,0151;Risque élevé
+A067;Câbles;Place de la République, 75011 Paris;0,0106;Risque moyen
+A067;Freins;Place de la République, 75011 Paris;0,0105;Risque moyen
+A067;Moteur;Place de la République, 75011 Paris;0,0108;Risque moyen
+A067;Portes;Place de la République, 75011 Paris;0,0103;Risque moyen
+A067;Poulies;Place de la République, 75011 Paris;0,0108;Risque moyen
+A067;Système de contrôle;Place de la République, 75011 Paris;0,0100;Risque moyen
+A068;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0125;Risque élevé
+A068;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0119;Risque moyen
+A068;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0061;Risque faible
+A068;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0116;Risque moyen
+A068;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0119;Risque moyen
+A068;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0083;Risque faible
+A068;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0094;Risque moyen
+A068;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0113;Risque moyen
+A069;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0079;Risque faible
+A069;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0097;Risque moyen
+A069;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0121;Risque moyen
+A069;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0142;Risque élevé
+A069;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0105;Risque moyen
+A069;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0061;Risque faible
+A069;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0111;Risque moyen
+A069;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0084;Risque faible
+A070;Batterie de secours;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0090;Risque faible
+A070;Capteurs;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0105;Risque moyen
+A070;Câbles;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0090;Risque faible
+A070;Freins;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0095;Risque moyen
+A070;Moteur;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0120;Risque moyen
+A070;Portes;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0099;Risque moyen
+A070;Poulies;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0127;Risque élevé
+A070;Système de contrôle;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0089;Risque faible
+A071;Batterie de secours;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0134;Risque élevé
+A071;Capteurs;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0088;Risque faible
+A071;Câbles;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0069;Risque faible
+A071;Freins;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0136;Risque élevé
+A071;Moteur;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0082;Risque faible
+A071;Portes;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0126;Risque élevé
+A071;Poulies;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0126;Risque élevé
+A071;Système de contrôle;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0100;Risque moyen
+A072;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0122;Risque moyen
+A072;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0128;Risque élevé
+A072;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0142;Risque élevé
+A072;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0131;Risque élevé
+A072;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0114;Risque moyen
+A072;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0120;Risque moyen
+A072;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0114;Risque moyen
+A072;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0074;Risque faible
+A073;Batterie de secours;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0119;Risque moyen
+A073;Capteurs;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0090;Risque faible
+A073;Câbles;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0122;Risque moyen
+A073;Freins;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0142;Risque élevé
+A073;Moteur;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0080;Risque faible
+A073;Portes;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0116;Risque moyen
+A073;Poulies;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0095;Risque moyen
+A073;Système de contrôle;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0102;Risque moyen
+A074;Batterie de secours;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0094;Risque moyen
+A074;Capteurs;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0071;Risque faible
+A074;Câbles;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0097;Risque moyen
+A074;Freins;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0105;Risque moyen
+A074;Moteur;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0103;Risque moyen
+A074;Portes;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0098;Risque moyen
+A074;Poulies;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0110;Risque moyen
+A074;Système de contrôle;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0137;Risque élevé
+A075;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0075;Risque faible
+A075;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0089;Risque faible
+A075;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0116;Risque moyen
+A075;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0137;Risque élevé
+A075;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0083;Risque faible
+A075;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0114;Risque moyen
+A075;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0122;Risque moyen
+A075;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0114;Risque moyen
+A076;Batterie de secours;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0091;Risque moyen
+A076;Capteurs;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0076;Risque faible
+A076;Câbles;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0065;Risque faible
+A076;Freins;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0147;Risque élevé
+A076;Moteur;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0100;Risque moyen
+A076;Portes;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0094;Risque moyen
+A076;Poulies;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0105;Risque moyen
+A076;Système de contrôle;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0079;Risque faible
+A077;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0089;Risque faible
+A077;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0077;Risque faible
+A077;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0113;Risque moyen
+A077;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0082;Risque faible
+A077;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0113;Risque moyen
+A077;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0088;Risque faible
+A077;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0100;Risque moyen
+A077;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0116;Risque moyen
+A078;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0128;Risque élevé
+A078;Capteurs;Rue de Montmartre, 75002 Paris;0,0093;Risque moyen
+A078;Câbles;Rue de Montmartre, 75002 Paris;0,0112;Risque moyen
+A078;Freins;Rue de Montmartre, 75002 Paris;0,0132;Risque élevé
+A078;Moteur;Rue de Montmartre, 75002 Paris;0,0108;Risque moyen
+A078;Portes;Rue de Montmartre, 75002 Paris;0,0073;Risque faible
+A078;Poulies;Rue de Montmartre, 75002 Paris;0,0128;Risque élevé
+A078;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0072;Risque faible
+A079;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0083;Risque faible
+A079;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0120;Risque moyen
+A079;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0115;Risque moyen
+A079;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0136;Risque élevé
+A079;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0074;Risque faible
+A079;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0104;Risque moyen
+A079;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0086;Risque faible
+A079;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0106;Risque moyen
+A080;Batterie de secours;Place de la République, 75011 Paris;0,0068;Risque faible
+A080;Capteurs;Place de la République, 75011 Paris;0,0081;Risque faible
+A080;Câbles;Place de la République, 75011 Paris;0,0102;Risque moyen
+A080;Freins;Place de la République, 75011 Paris;0,0105;Risque moyen
+A080;Moteur;Place de la République, 75011 Paris;0,0096;Risque moyen
+A080;Portes;Place de la République, 75011 Paris;0,0075;Risque faible
+A080;Poulies;Place de la République, 75011 Paris;0,0103;Risque moyen
+A080;Système de contrôle;Place de la République, 75011 Paris;0,0091;Risque moyen
+A081;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0097;Risque moyen
+A081;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0100;Risque moyen
+A081;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0104;Risque moyen
+A081;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0108;Risque moyen
+A081;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0117;Risque moyen
+A081;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0121;Risque moyen
+A081;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0075;Risque faible
+A081;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0108;Risque moyen
+A082;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0129;Risque élevé
+A082;Capteurs;Boulevard Magenta, 75010 Paris;0,0114;Risque moyen
+A082;Câbles;Boulevard Magenta, 75010 Paris;0,0102;Risque moyen
+A082;Freins;Boulevard Magenta, 75010 Paris;0,0091;Risque moyen
+A082;Moteur;Boulevard Magenta, 75010 Paris;0,0076;Risque faible
+A082;Portes;Boulevard Magenta, 75010 Paris;0,0091;Risque moyen
+A082;Poulies;Boulevard Magenta, 75010 Paris;0,0085;Risque faible
+A082;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0088;Risque faible
+A083;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0107;Risque moyen
+A083;Capteurs;Rue de Montmartre, 75002 Paris;0,0129;Risque élevé
+A083;Câbles;Rue de Montmartre, 75002 Paris;0,0086;Risque faible
+A083;Freins;Rue de Montmartre, 75002 Paris;0,0077;Risque faible
+A083;Moteur;Rue de Montmartre, 75002 Paris;0,0126;Risque élevé
+A083;Portes;Rue de Montmartre, 75002 Paris;0,0060;Risque faible
+A083;Poulies;Rue de Montmartre, 75002 Paris;0,0085;Risque faible
+A083;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0100;Risque moyen
+A084;Batterie de secours;Place de la République, 75011 Paris;0,0088;Risque faible
+A084;Capteurs;Place de la République, 75011 Paris;0,0063;Risque faible
+A084;Câbles;Place de la République, 75011 Paris;0,0142;Risque élevé
+A084;Freins;Place de la République, 75011 Paris;0,0086;Risque faible
+A084;Moteur;Place de la République, 75011 Paris;0,0092;Risque moyen
+A084;Portes;Place de la République, 75011 Paris;0,0092;Risque moyen
+A084;Poulies;Place de la République, 75011 Paris;0,0100;Risque moyen
+A084;Système de contrôle;Place de la République, 75011 Paris;0,0103;Risque moyen
+A085;Batterie de secours;Place de la République, 75011 Paris;0,0062;Risque faible
+A085;Capteurs;Place de la République, 75011 Paris;0,0063;Risque faible
+A085;Câbles;Place de la République, 75011 Paris;0,0069;Risque faible
+A085;Freins;Place de la République, 75011 Paris;0,0074;Risque faible
+A085;Moteur;Place de la République, 75011 Paris;0,0103;Risque moyen
+A085;Portes;Place de la République, 75011 Paris;0,0125;Risque élevé
+A085;Poulies;Place de la République, 75011 Paris;0,0111;Risque moyen
+A085;Système de contrôle;Place de la République, 75011 Paris;0,0132;Risque élevé
+A086;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0134;Risque élevé
+A086;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0144;Risque élevé
+A086;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0094;Risque moyen
+A086;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0075;Risque faible
+A086;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0069;Risque faible
+A086;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0093;Risque moyen
+A086;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0070;Risque faible
+A086;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0082;Risque faible
+A087;Batterie de secours;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0105;Risque moyen
+A087;Capteurs;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0119;Risque moyen
+A087;Câbles;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0086;Risque faible
+A087;Freins;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0102;Risque moyen
+A087;Moteur;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0103;Risque moyen
+A087;Portes;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0138;Risque élevé
+A087;Poulies;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0085;Risque faible
+A087;Système de contrôle;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0117;Risque moyen
+A088;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0102;Risque moyen
+A088;Capteurs;Boulevard Magenta, 75010 Paris;0,0066;Risque faible
+A088;Câbles;Boulevard Magenta, 75010 Paris;0,0090;Risque faible
+A088;Freins;Boulevard Magenta, 75010 Paris;0,0102;Risque moyen
+A088;Moteur;Boulevard Magenta, 75010 Paris;0,0067;Risque faible
+A088;Portes;Boulevard Magenta, 75010 Paris;0,0103;Risque moyen
+A088;Poulies;Boulevard Magenta, 75010 Paris;0,0098;Risque moyen
+A088;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0099;Risque moyen
+A089;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0109;Risque moyen
+A089;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0082;Risque faible
+A089;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0081;Risque faible
+A089;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0064;Risque faible
+A089;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0123;Risque élevé
+A089;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0068;Risque faible
+A089;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0105;Risque moyen
+A089;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0078;Risque faible
+A090;Batterie de secours;Rue Voltaire, 92300 Levallois-Perret;0,0109;Risque moyen
+A090;Capteurs;Rue Voltaire, 92300 Levallois-Perret;0,0113;Risque moyen
+A090;Câbles;Rue Voltaire, 92300 Levallois-Perret;0,0117;Risque moyen
+A090;Freins;Rue Voltaire, 92300 Levallois-Perret;0,0069;Risque faible
+A090;Moteur;Rue Voltaire, 92300 Levallois-Perret;0,0104;Risque moyen
+A090;Portes;Rue Voltaire, 92300 Levallois-Perret;0,0121;Risque moyen
+A090;Poulies;Rue Voltaire, 92300 Levallois-Perret;0,0107;Risque moyen
+A090;Système de contrôle;Rue Voltaire, 92300 Levallois-Perret;0,0093;Risque moyen
+A091;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0142;Risque élevé
+A091;Capteurs;Boulevard Magenta, 75010 Paris;0,0082;Risque faible
+A091;Câbles;Boulevard Magenta, 75010 Paris;0,0059;Risque faible
+A091;Freins;Boulevard Magenta, 75010 Paris;0,0124;Risque élevé
+A091;Moteur;Boulevard Magenta, 75010 Paris;0,0091;Risque moyen
+A091;Portes;Boulevard Magenta, 75010 Paris;0,0128;Risque élevé
+A091;Poulies;Boulevard Magenta, 75010 Paris;0,0088;Risque faible
+A091;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0123;Risque moyen
+A092;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0109;Risque moyen
+A092;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0121;Risque moyen
+A092;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0110;Risque moyen
+A092;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0137;Risque élevé
+A092;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0070;Risque faible
+A092;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0087;Risque faible
+A092;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0104;Risque moyen
+A092;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0059;Risque faible
+A093;Batterie de secours;Boulevard Magenta, 75010 Paris;0,0090;Risque faible
+A093;Capteurs;Boulevard Magenta, 75010 Paris;0,0129;Risque élevé
+A093;Câbles;Boulevard Magenta, 75010 Paris;0,0094;Risque moyen
+A093;Freins;Boulevard Magenta, 75010 Paris;0,0101;Risque moyen
+A093;Moteur;Boulevard Magenta, 75010 Paris;0,0086;Risque faible
+A093;Portes;Boulevard Magenta, 75010 Paris;0,0100;Risque moyen
+A093;Poulies;Boulevard Magenta, 75010 Paris;0,0122;Risque moyen
+A093;Système de contrôle;Boulevard Magenta, 75010 Paris;0,0118;Risque moyen
+A094;Batterie de secours;Rue de la Fontaine au Roi, 75011 Paris;0,0087;Risque faible
+A094;Capteurs;Rue de la Fontaine au Roi, 75011 Paris;0,0119;Risque moyen
+A094;Câbles;Rue de la Fontaine au Roi, 75011 Paris;0,0097;Risque moyen
+A094;Freins;Rue de la Fontaine au Roi, 75011 Paris;0,0137;Risque élevé
+A094;Moteur;Rue de la Fontaine au Roi, 75011 Paris;0,0073;Risque faible
+A094;Portes;Rue de la Fontaine au Roi, 75011 Paris;0,0145;Risque élevé
+A094;Poulies;Rue de la Fontaine au Roi, 75011 Paris;0,0106;Risque moyen
+A094;Système de contrôle;Rue de la Fontaine au Roi, 75011 Paris;0,0106;Risque moyen
+A095;Batterie de secours;Allée de la Noyeraie, 92000 Nanterre;0,0104;Risque moyen
+A095;Capteurs;Allée de la Noyeraie, 92000 Nanterre;0,0107;Risque moyen
+A095;Câbles;Allée de la Noyeraie, 92000 Nanterre;0,0082;Risque faible
+A095;Freins;Allée de la Noyeraie, 92000 Nanterre;0,0093;Risque moyen
+A095;Moteur;Allée de la Noyeraie, 92000 Nanterre;0,0114;Risque moyen
+A095;Portes;Allée de la Noyeraie, 92000 Nanterre;0,0110;Risque moyen
+A095;Poulies;Allée de la Noyeraie, 92000 Nanterre;0,0077;Risque faible
+A095;Système de contrôle;Allée de la Noyeraie, 92000 Nanterre;0,0075;Risque faible
+A096;Batterie de secours;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0117;Risque moyen
+A096;Capteurs;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0074;Risque faible
+A096;Câbles;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0112;Risque moyen
+A096;Freins;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0066;Risque faible
+A096;Moteur;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0125;Risque élevé
+A096;Portes;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0122;Risque moyen
+A096;Poulies;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0099;Risque moyen
+A096;Système de contrôle;Boulevard Jean Jaurès, 94200 Ivry-sur-Seine;0,0078;Risque faible
+A097;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0119;Risque moyen
+A097;Capteurs;Rue de Montmartre, 75002 Paris;0,0127;Risque élevé
+A097;Câbles;Rue de Montmartre, 75002 Paris;0,0113;Risque moyen
+A097;Freins;Rue de Montmartre, 75002 Paris;0,0096;Risque moyen
+A097;Moteur;Rue de Montmartre, 75002 Paris;0,0111;Risque moyen
+A097;Portes;Rue de Montmartre, 75002 Paris;0,0113;Risque moyen
+A097;Poulies;Rue de Montmartre, 75002 Paris;0,0119;Risque moyen
+A097;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0125;Risque élevé
+A098;Batterie de secours;Place de la République, 75011 Paris;0,0095;Risque moyen
+A098;Capteurs;Place de la République, 75011 Paris;0,0073;Risque faible
+A098;Câbles;Place de la République, 75011 Paris;0,0122;Risque moyen
+A098;Freins;Place de la République, 75011 Paris;0,0103;Risque moyen
+A098;Moteur;Place de la République, 75011 Paris;0,0103;Risque moyen
+A098;Portes;Place de la République, 75011 Paris;0,0091;Risque moyen
+A098;Poulies;Place de la République, 75011 Paris;0,0093;Risque moyen
+A098;Système de contrôle;Place de la République, 75011 Paris;0,0114;Risque moyen
+A099;Batterie de secours;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0074;Risque faible
+A099;Capteurs;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0108;Risque moyen
+A099;Câbles;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0066;Risque faible
+A099;Freins;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0110;Risque moyen
+A099;Moteur;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0116;Risque moyen
+A099;Portes;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0092;Risque moyen
+A099;Poulies;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0110;Risque moyen
+A099;Système de contrôle;Avenue Charles de Gaulle, 92200 Neuilly-sur-Seine;0,0128;Risque élevé
+A100;Batterie de secours;Rue de Montmartre, 75002 Paris;0,0107;Risque moyen
+A100;Capteurs;Rue de Montmartre, 75002 Paris;0,0122;Risque moyen
+A100;Câbles;Rue de Montmartre, 75002 Paris;0,0089;Risque faible
+A100;Freins;Rue de Montmartre, 75002 Paris;0,0084;Risque faible
+A100;Moteur;Rue de Montmartre, 75002 Paris;0,0073;Risque faible
+A100;Portes;Rue de Montmartre, 75002 Paris;0,0105;Risque moyen
+A100;Poulies;Rue de Montmartre, 75002 Paris;0,0092;Risque moyen
+A100;Système de contrôle;Rue de Montmartre, 75002 Paris;0,0084;Risque faible
